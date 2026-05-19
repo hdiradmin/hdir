@@ -93,9 +93,8 @@ structure:
     - personList:
         - name: Dr. sc. Vesna Musani
           title: Institut Ruđer Bošković, Zagreb
-        - name: Prof. dr. sc. Maja Sirotković-Skerlev, dr. med.
-          title: Klinički bolnički centar Zagreb, Zagreb; Sveučilište u Zagrebu,
-            Medicinski fakultet, Zagreb
+        - name: Dr. sc. Maja Sabol
+          title: Institut Ruđer Bošković, Zagreb
         - name: Izv. prof. dr. sc. Ivan Šamija
           title: Klinički bolnički centar Sestre milosrdnice, Zagreb
         - name: Dr. sc. Sandra Sobočanec
@@ -108,16 +107,16 @@ structure:
           title: Institut Ruđer Bošković, Zagreb
         - name: Dr. sc. Goran Gajski
           title: Institut za medicinska istraživanja i medicinu rada, Zagreb
-        - name: Dr. sc. Mihaela Matovina
-          title: Institut Ruđer Bošković, Zagreb
+        - name: Prim. Siniša Varga, dr. med. dent.
+          title: Stomatološka poliklinika Zagreb, Zagreb
       title: Nadzorni odbor
     - personList:
-        - name: Prof. dr. sc. Biserka Nagy
-          title: Sveučilište u Zagrebu, Prirodoslovno-matematički fakultet, Zagreb
-        - name: Dr. sc. Marijeta Kralj
+        - name: Prof. dr. sc. Maja Sirotković-Skerlev, dr. med.
+          title: Medicinski fakultet, Sveučilište u Zagrebu, Zagreb
+        - name: Dr. sc. Andreja Ambriović Ristov
           title: Institut Ruđer Bošković, Zagreb
-        - name: Dr. sc. Dragomira Majhen
-          title: Institut Ruđer Bošković, Zagreb
+        - name: Ivica Belina, prof. edukac. reh.
+          title: Koalicija udruga u zdravstvu, Zagreb
       title: Sud časti
   show: true
   title: Ustrojstvo
