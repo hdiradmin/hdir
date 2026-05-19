@@ -1,5 +1,14 @@
 ---
 templateKey: about-page
+hero:
+  height: 40
+  image: /img/278.jpg
+  subtitle: Nacionalna udruga istraživača raka s preko 200 članova
+  title: Udruga znanstvenika i stručnih djelatnika
+  top: O društvu
+  link:
+    page: ""
+    title: ""
 rightText:
   body: Članstvo u HDIR-u omogućuje vam besplatno i punopravno članstvo u European
     Association for Cancer Research (EACR). EACR nudi širok spektar usluga za
@@ -22,15 +31,6 @@ textWithImage:
     aspektima istraživanja raka, primjene istraživanja i menadžmentu.
   image: /img/eacr.png
 lang: hr
-hero:
-  height: 40
-  image: /img/278.jpg
-  subtitle: Nacionalna udruga istraživača raka s preko 200 članova
-  title: Udruga znanstvenika i stručnih djelatnika
-  top: O društvu
-  link:
-    page: ""
-    title: ""
 leftText:
   body: >
     HDIR nam daje veću mogućnost suradnje sa srodnim nacionalnim udrugama za
@@ -75,9 +75,9 @@ membership:
 structure:
   roles:
     - personList:
-        - name: Dr. sc. Sonja Levanat
+        - name: Dr. sc. Petar Ozretić
           title: Institut Ruđer Bošković, Zagreb
-      title: Predsjednica
+      title: Predsjednik
     - personList:
         - name: Dr. sc. Neda Slade
           title: "Institut Ruđer Bošković, Zagreb "
