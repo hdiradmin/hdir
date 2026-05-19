@@ -1,5 +1,14 @@
 ---
 templateKey: about-page
+hero:
+  height: 40
+  image: /img/278.jpg
+  subtitle: National association of cancer researchers with over 200 members
+  title: Organization of scientists and physicians
+  top: About organization
+  link:
+    page: ""
+    title: ""
 rightText:
   body: >
     Membership of the CACR entitles you to free and full membership of the
@@ -24,15 +33,6 @@ textWithImage:
     management.
   image: /img/eacr.png
 lang: en
-hero:
-  height: 40
-  image: /img/278.jpg
-  subtitle: National association of cancer researchers with over 200 members
-  title: Organization of scientists and physicians
-  top: About organization
-  link:
-    page: ""
-    title: ""
 leftText:
   body: >
     CACR gives us a greater possibility of cooperation with related national
@@ -77,7 +77,7 @@ membership:
 structure:
   roles:
     - personList:
-        - name: Sonja Levanat, PhD
+        - name: Petar Ozretić, PhD
           title: Ruđer Bošković Institute, Zagreb, Croatia
       title: President
     - personList:
@@ -85,19 +85,18 @@ structure:
           title: Ruđer Bošković Institute, Zagreb, Croatia
       title: Vice-president
     - personList:
-        - name: Petar Ozretić, PhD
+        - name: Tanja Matijević Glavan, PhD
           title: Ruđer Bošković Institute, Zagreb, Croatia
       title: Secretary
     - personList:
-        - name: Maja Sabol, PhD
+        - name: Anđela Horvat, PhD
           title: Ruđer Bošković Institute, Zagreb, Croatia
       title: Treasurer
     - personList:
         - name: Vesna Musani, PhD
           title: Ruđer Bošković Institute, Zagreb, Croatia
-        - name: Prof. Maja Sirotković-Skerlev, MD, PhD
-          title: University Hospital Center Zagreb, Zagreb, Croatia; University of Zagreb,
-            School of Medicine, Zagreb, Croatia
+        - name: Maja Sabol, PhD
+          title: Ruđer Bošković Institute, Zagreb, Croatia
         - name: Assoc. Prof. Ivan Šamija, PhD
           title: Sestre milosrdnice University Hospital Center, Zagreb, Croatia
         - name: Sandra Sobočanec, PhD
@@ -110,16 +109,16 @@ structure:
           title: Ruđer Bošković Institute, Zagreb, Croatia
         - name: Goran Gajski, PhD
           title: Institute for Medical Research and Occupational Health, Zagreb, Croatia
-        - name: Mihaela Matovina, PhD
+        - name: Prim. Siniša Varga, DMD
           title: Ruđer Bošković Institute, Zagreb, Croatia
       title: Supervisory Committee
     - personList:
-        - name: Prof. Biserka Nagy, PhD
-          title: University of Zagreb, Faculty of Science, Zagreb, Croatia
-        - name: Marijeta Kralj, PhD
+        - name: Assoc. Prof. Maja Sirotković-Skerlev, MD, PhD
+          title: University of Zagreb, School of Medicine, Zagreb, Croatia
+        - name: Andreja Ambriović Ristov, PhD
           title: Ruđer Bošković Institute, Zagreb, Croatia
-        - name: Dragomira Majhen, PhD
-          title: Ruđer Bošković Institute, Zagreb, Croatia
+        - name: Mr. Ivica Belina
+          title: Coalition of Associations in Healthcare, Zagreb, Croatia
       title: Court of Honour
   show: true
   title: Organisational Structure
