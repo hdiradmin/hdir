@@ -83,11 +83,11 @@ structure:
           title: "Institut Ruđer Bošković, Zagreb "
       title: Dopredsjednica
     - personList:
-        - name: Dr. sc. Petar Ozretić
+        - name: Dr. sc. Tanja Matijević Glavan
           title: Institut Ruđer Bošković, Zagreb
-      title: Tajnik
+      title: Tajnica
     - personList:
-        - name: Dr. sc. Maja Sabol
+        - name: Dr. sc. Anđela Horvat
           title: Institut Ruđer Bošković, Zagreb
       title: Rizničarka
     - personList:
